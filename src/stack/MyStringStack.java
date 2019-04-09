@@ -1,6 +1,6 @@
 package stack;
 
-
+ergrg
 import java.util.NoSuchElementException;
 import java.util.Vector;
 
